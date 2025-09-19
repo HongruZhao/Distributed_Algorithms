@@ -1,0 +1,10 @@
+bin_data                A simulated binomial data set.
+cv.glmtlp               Cross-validation for glmtlp
+gau_data                A simulated gaussian data set.
+gen.binomial.data       Simulate a binomial data set
+gen.gaussian.data       Simulate a gaussian data set
+plot.cv.glmtlp          Plot Method for a "cv.glmtlp" Object
+plot.glmtlp             Plot Method for a "glmtlp" Object
+predict.cv.glmtlp       Predict Method for a "cv.glmtlp" Object.
+predict.glmtlp          Predict Method for a "glmtlp" Object
+setup_lambda            Generate lambda sequence.

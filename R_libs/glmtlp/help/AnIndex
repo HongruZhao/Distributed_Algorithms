@@ -1,0 +1,14 @@
+glmtlp-package	glmtlp
+bin_data	bin_data
+coef.cv.glmtlp	predict.cv.glmtlp
+coef.glmtlp	predict.glmtlp
+cv.glmtlp	cv.glmtlp
+gau_data	gau_data
+gen.binomial.data	gen.binomial.data
+gen.gaussian.data	gen.gaussian.data
+glmtlp	glmtlp
+plot.cv.glmtlp	plot.cv.glmtlp
+plot.glmtlp	plot.glmtlp
+predict.cv.glmtlp	predict.cv.glmtlp
+predict.glmtlp	predict.glmtlp
+setup_lambda	setup_lambda

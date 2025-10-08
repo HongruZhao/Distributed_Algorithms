@@ -1,9 +1,9 @@
-.libPaths(c("/panfs/jay/groups/27/shenx/zhao1118/distributed_algorithm/R_libs", .libPaths()))
 library(MASS)
 library(glmtlp)
 library(glmnet)
 
-setwd("/panfs/jay/groups/27/shenx/zhao1118/distributed_algorithm")
+setwd("C:/HZ simulation")
+
 set.seed(2025)
 
 ## ── 1. Helper functions ─────────────────────────────────────────────────────

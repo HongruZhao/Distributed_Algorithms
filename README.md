@@ -1,3 +1,4 @@
+ (cd "$(git rev-parse --show-toplevel)" && git apply --3way <<'EOF' 
 diff --git a/README.md b/README.md
 new file mode 100644
 index 0000000000000000000000000000000000000000..aa429573e698b9fc76629ce6fcdd103f45ef72b7
@@ -57,4 +58,6 @@ index 0000000000000000000000000000000000000000..aa429573e698b9fc76629ce6fcdd103f
 +
 +> Hongru Zhao and Xiaotong Shen. *Distributed Algorithms for High-Dimensional Statistical Inference and Structure Learning with Heterogeneous Data*. School of Statistics, University of Minnesota, Twin Cities.
 +
-+We appreciate references to the scripts or datasets when reusing them in derivative work.
++We appreciate references to the scripts or datasets when reusing them in derivative work. 
+EOF
+)
